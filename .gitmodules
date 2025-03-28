@@ -1,3 +1,6 @@
 [submodule "Learn"]
 	path = Learn
 	url = https://github.com/mumundum/Microsoft-Learn.git
+[submodule "Azure/Gen1-Trustedlaunch"]
+	path = Azure/Gen1-Trustedlaunch
+	url = https://github.com/Azure/Gen1-Trustedlaunch.git
